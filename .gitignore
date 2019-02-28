@@ -1,0 +1,10 @@
+.DS_Store
+.idea
+node_modules
+key.json
+log
+package-lock.json
+*/**/serviceUUID.json
+/serviceUUID.json
+*/**/serviceConnection_*.json
+/serviceConnection_*.json
